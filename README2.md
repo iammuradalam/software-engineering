@@ -6,3 +6,7 @@ This repository contains my exercises assignment 2 and coursework for the Softwa
 
 Murad Alam
 AE25
+
+## Purpose
+
+This repository is used to practise software development and version control.
